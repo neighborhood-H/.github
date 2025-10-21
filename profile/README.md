@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=5500&pause=2000&color=00F754&center=true&vCenter=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B;it+is+team+for+sec)](https://git.io/typing-svg)
-
-# who's NEXT-DOOR
-
-<p align="center">
-  <img src="assets/logo.png" alt="NEXT-DOOR logo" width="180"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B82828&width=435&lines=who's+Next+Door)](https://git.io/typing-svg)
 
 **who's NEXT-DOOR** — IoT / Network Vulnerability Research & Responsible Disclosure.
 
