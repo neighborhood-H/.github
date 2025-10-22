@@ -1,18 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B82828&width=435&lines=who's+Next+Door)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00B863&height=150&lines=who's+Next+Door%3F)](https://git.io/typing-svg)
 
-**who's NEXT-DOOR** — IoT / Network Vulnerability Research & Responsible Disclosure.
+**neighbohood-H** — Vulnerability Research & Responsible Disclosure.
 
-[![Team](https://img.shields.io/badge/team-NEXT--DOOR-blue)]()
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
+[![Team](https://img.shields.io/badge/team-neighborhood--H-purple)]()
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Public PoCs](https://img.shields.io/badge/public-1--day-green)]()
 
 ---
 
 ## Quick links
 - **Private**: `0-DAY/` (internal vulnerability reports — access by request)
-- **Public**: `1-DAY_Confirmation/` (research reports, PoC, emulation guides)
-- `templates/` — 문서 템플릿(보고서·README)
-- `tooling/` — 분석 스크립트, 자동화
+- **Public**: `1-DAY_Confirmation/` (https://github.com/neighborhood-H/1-DAY_Confirmation)
 
 ---
 
@@ -29,7 +27,6 @@ Each repository follows:
 2. `reports/` — markdown reports with diff & evidence.
 3. `poc/` — PoC scripts with `README_SAFE.md` explaining isolation steps.
 4. `emulation/` — qemu/chroot instructions & exported images (or download links).
-5. `SECURITY.md` & `CONTRIBUTING.md`.
 
 ---
 
@@ -40,8 +37,6 @@ Each repository follows:
 ---
 
 ## Inspiration & references
-- Google Project Zero — public vulnerability writeups & tooling.  [oai_citation:3‡GitHub](https://github.com/googleprojectzero?utm_source=chatgpt.com)  
-- ProjectDiscovery — 템플릿화된 대규모 커뮤니티 리포지토리(구성·기여 모델 참고).  [oai_citation:4‡GitHub](https://github.com/projectdiscovery/nuclei-templates?utm_source=chatgpt.com)  
 - Trail of Bits — 연구 산출물·툴 문서화 사례(README·규칙집).  [oai_citation:5‡GitHub](https://github.com/trailofbits?utm_source=chatgpt.com)
                                                                                                             
 <!--
