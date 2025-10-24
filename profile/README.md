@@ -42,11 +42,9 @@ Each repository follows:
 
 
 ---
-
-
+   
+   
 © 2025 neighborhood-H.   
-Code is licensed under [MIT](./LICENSE_CODE).  
-Documentation and analysis are licensed under [CC BY-NC 4.0](./LICENSE_DOC).
                                                                                                             
 <!--
 
