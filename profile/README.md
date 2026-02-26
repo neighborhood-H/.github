@@ -10,7 +10,7 @@
 ---
 
 ## Quick links
-- [**Private — 0-DAY**](https://github.com/neighborhood-H/0-DAY) — Internal vulnerability reports (접근 요청 필요)
+- [**Private — 0-DAY**](https://github.com/neighborhood-H/0-DAY) — Internal vulnerability reports
 - [**Public — 1-DAY_Confirmation**](https://github.com/neighborhood-H/1-DAY_Confirmation) — 공개 1-Day 분석 리포지토리
 ---
 
