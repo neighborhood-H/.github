@@ -5,7 +5,6 @@
 [![Team](https://img.shields.io/badge/team-neighborhood--H-purple)]()
 [![Public PoCs](https://img.shields.io/badge/Public--PoC-1--DAY-green)]()
 [![Private Vault](https://img.shields.io/badge/Private--Vault-0--DAY-orange)]()
-[![Last update](https://img.shields.io/badge/Last%20update-2025--10--25-lightgrey.svg)]()
 
 ---
 
